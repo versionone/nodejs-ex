@@ -8,3 +8,5 @@ S-01534, S-01550, D-01028, S-01543, S-01544
 2) always write meaningful commit messages
 
 3) walk softly, and carry a big stick
+
+4) do something else
